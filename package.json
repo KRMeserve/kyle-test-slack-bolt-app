@@ -1,0 +1,23 @@
+{
+  "name": "kyle-test-slack-bolt-app",
+  "version": "1.0.0",
+  "description": "Test slack app for hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRMeserve/kyle-test-slack-bolt-app.git"
+  },
+  "author": "KRMeserve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KRMeserve/kyle-test-slack-bolt-app/issues"
+  },
+  "homepage": "https://github.com/KRMeserve/kyle-test-slack-bolt-app#readme",
+  "dependencies": {
+    "@slack/bolt": "^2.6.1",
+    "dotenv": "^8.2.0"
+  }
+}
